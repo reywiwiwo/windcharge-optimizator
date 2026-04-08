@@ -1,0 +1,6 @@
+com\minecraft\windcharge\ConfigManager.class
+com\minecraft\windcharge\WindChargeListener.class
+com\minecraft\windcharge\WindChargeCommand.class
+com\minecraft\windcharge\WindChargeManager.class
+com\minecraft\windcharge\WindChargeManager$CombinedWindCharge.class
+com\minecraft\windcharge\WindChargeOptimizer.class
