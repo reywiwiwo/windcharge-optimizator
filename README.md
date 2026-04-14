@@ -1,4 +1,4 @@
-# WindChargeOptimizer Plugin para Minecraft 1.21.1
+# WindChargeOptimizer Plugin para Minecraft 1.21.11
 
 Un plugin de optimización para Minecraft 1.21.1 que combina múltiples cargas de viento en una sola entidad para reducir el lag y mejorar el TPS, manteniendo la potencia de explosión equivalente al número de cargas originales.
 
